@@ -10,7 +10,7 @@ Automatiser la collecte des produits du site [ACTION](https://www.action.com/fr-
 ## Evaluation continue
 
 Evaluation du code Python permettant de collecter de manière automatique tous les produits d'une catégorie en les sauvegardants au format JSON
-- Le code s'execute s'en erreur
+- Le code s'execute sans erreurs
 - Le code récupère les produits de toutes les pages d'une catégorie (ie: habitat)
 - Le code écrit en JSON toutes les informations détaillées
 - Le groupe est capable de naviguer dans le code et d'expliquer précisement chaque étape
