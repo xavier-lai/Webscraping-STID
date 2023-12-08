@@ -52,7 +52,7 @@ Le groupe typera son code Python. Le typage permet aux developpeurs de lire plus
 
 Pour typer on utilise le module [`typing`](https://www.pythontutorial.net/python-basics/python-type-hints/) qui est natif dans Python.
 
-```
+```python
 from typing import List, Dict
 
 def extract_data(url: str) -> List[Dict[str, str]]:
