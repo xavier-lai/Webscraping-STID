@@ -23,9 +23,9 @@ Evaluation du code Python permettant de collecter de manière automatique tous l
 #### Programmation fonctionnelle
 
 Chaque groupe veillera a rendre son code python en respectant les standards de code des développeurs Python en programmation fonctionnelle. 
-Pour se faire le groupe organisea le code en fonctions, chacune ayant une tâche spécifique. Utilisez des noms de fonctions descriptifs dans une seule langue (Français ou Anglais).
+Pour se faire le groupe organisera le code en fonctions, chacune ayant une tâche spécifique. Utilisez des noms de fonctions descriptifs dans une seule langue (Français ou Anglais).
 
-Soyez cohérent, il faut que chaque nom de variable décrivre le contenu (pas de variable `i`, `j` etc..)
+Soyez cohérent, il faut que chaque nom de variable puisse décrire le contenu (pas de variable `i`, `j` etc..)
 
 Ceci est juste un exemple :
 
@@ -48,9 +48,9 @@ if __name__ "__main__":
 
 #### Typage
 
-Le groupe typera son code Python. Le typage sert au developpeur de lire plus rapidemment le code et de comprendre le type de chaque variable, argument, retour de fonction et constantes.
+Le groupe typera son code Python. Le typage permet aux developpeurs de lire plus rapidemment le code et de comprendre le type de chaque variable, argument, retour de fonction et constantes.
 
-Pour typer on utilise le module `typing` qui est natif dans Python.
+Pour typer on utilise le module [`typing`](https://www.pythontutorial.net/python-basics/python-type-hints/) qui est natif dans Python.
 
 ```
 from typing import List, Dict
